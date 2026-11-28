@@ -1,4 +1,4 @@
-London-based developer, building 0-1 in Python, IT networks, cloud computing, computer science curriculum subjects self taught route. Aspiring engineer.
+London-based developer building from scratch in Python, IT networks and cloud computing, teaching myself computer science subjects. Aspiring engineer.
 
-- *Current focus:* programming in Python, Git, PowerShell, Linux, SQL, the cloud, cs subjects and IT network security.
-- *Background:* ex BPO big tech trust and safety analyst, content moderator with foreign languages and ML product development and outside tech previously geopolitical consultant, MA graduate in international relations and legal affairs in the U.K tobacco industry.
+- *Current focus:* Python, Git, PowerShell, Linux, SQL, the cloud, and IT network security.
+- *Background:* ex big tech trust and safety analyst and multilingual content moderator, with ML product development experience. Previously a geopolitical consultant. MA graduate in international relations and legal affairs, with UK tobacco industry experience.
